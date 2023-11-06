@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClasesBase.Proveedor" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAgAAAAAAAAQAAAAEAAAAAAAA=</HashCode>
+      <FileName>Proveedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.Producto" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAACABAAAggQQgAIAEIAAAAAAAAgAAAA=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.ProductoProveedor" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAQAIAAAAAIAAAACAAAAIAA=</HashCode>
+      <FileName>ProductoProveedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.ProductoCategoria" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>ProductoCategoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.ProductoPlato" Collapsed="true">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAIAAAABAAAAAQAAAAAAAAAAAAAgAAAAIA=</HashCode>
+      <FileName>ProductoPlato.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.Plato" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAIAACAAAAAgAAQAAAAEAAAAAAAAAAEQAA=</HashCode>
+      <FileName>Plato.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.PlatoCategoria" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAEQAA=</HashCode>
+      <FileName>PlatoCategoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.PlatoOrden" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgQAAAIEAAAAAAAAAAAAAAAAAAAAAEAAAABAAA=</HashCode>
+      <FileName>PlatoOrden.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.Orden" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAIgCAAAIAAAAEAAAAJAAA=</HashCode>
+      <FileName>Orden.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.EstadoOrden" Collapsed="true">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>EstadoOrden.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.PagoOrden" Collapsed="true">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAIAAAAAAAAAABAAAAMAAAABAAA=</HashCode>
+      <FileName>PagoOrden.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.MetodoPago" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAEAAAABAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>MetodoPago.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

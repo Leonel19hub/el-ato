@@ -1,0 +1,7 @@
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\ClasesBase\bin\Debug\ñatoBd.mdf
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\ClasesBase\bin\Debug\ñatoBd_log.ldf
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\ClasesBase\bin\Debug\ClasesBase.dll.config

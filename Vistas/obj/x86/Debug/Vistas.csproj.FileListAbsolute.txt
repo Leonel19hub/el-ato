@@ -1,0 +1,16 @@
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\Vistas\bin\Debug\Vistas.exe
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\Vistas\bin\Debug\Vistas.pdb
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\Vistas\bin\Debug\ñatoBd.mdf
+C:\Users\GAMING\Desktop\Leonel\Projectos\ElÑato\Vistas\bin\Debug\ñatoBd_log.ldf
